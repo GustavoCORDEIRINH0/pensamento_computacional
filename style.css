@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color:rgb(255, 0, 0);
+    text-align: center;
+    sont-size: 32px
+}
+
+body{
+    backgroumd-color: #f0f0f0;
+}
