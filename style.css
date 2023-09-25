@@ -6,9 +6,30 @@
 h1{
     color:rgb(255, 0, 0);
     text-align: center;
-    sont-size: 32px
+    font-size: 32px
 }
 
 body{
     backgroumd-color: #f0f0f0;
+
+}
+
+p{
+    margin-left: 20px;
+    fontsize: 25px;
+    text-align: justify;
+}
+
+h2,h3{
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+iframe{
+    margin-left: 500px;
+}
+li{
+    margin-left: 40px;
+    text-transform: uppercase;
+    font-size: 25px;
 }
